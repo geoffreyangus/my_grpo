@@ -26,3 +26,5 @@ uv pip install -e ~/vllm
 source .venv/bin/activate
 python chat.py
 ```
+
+PLS SHUT DOWN THE GPU CLOUD INSTANCE WHEN YOU ARE DONE.
